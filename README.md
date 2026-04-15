@@ -137,6 +137,7 @@ Git 설치, 기본 사용법, 협업 흐름, 규칙, 자주 발생하는 오류 
 - [Git Workflow](./guide/Git-Workflow.md)
 - [Branch and Merge](./guide/Branch-and-Merge.md)
 - [Collaboration Flow](./guide/Collaboration-Flow.md)
+- [Username-change-checklist](./guide/GitHub-username-change-checklist.md)
 
 ---
 
